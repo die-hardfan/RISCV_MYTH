@@ -1,5 +1,7 @@
 DAY 5: PIPELINED RISC V CPU (RV32I)
 
+IMPORTANT NOTE: These files have a lot of comments, please excuse me if it looks clumsy
+
 1. single cycle cpu + valid signal:  https://makerchip.com/sandbox/04xfJhV8k/0lOh29N
 2. cpu + validity check + pc/branch modification:  https://makerchip.com/sandbox/04xfJhV8k/0r0h8NM
 3. cpu + 3 stage pipeline:  https://makerchip.com/sandbox/04xfJhV8k/0GZh1jB
