@@ -1,5 +1,7 @@
 DAY 4: SINGLE CYCLE RISC V CPU USING TL VERILOG
 
+IMPORTANT NOTE: These files have a lot of comments, please excuse me if it looks clumsy
+
 1. Program counter:  https://makerchip.com/sandbox/04xfJhV8k/0JZhqLv
 2. pc + instr mem access:  http://makerchip.com/sandbox/04xfJhV8k/0LghRMq
 3. pc + instr fetch + instr format decode:  http://makerchip.com/sandbox/04xfJhV8k/0Nxh05B
