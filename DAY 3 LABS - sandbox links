@@ -1,0 +1,29 @@
+DAY 3  - COMBINATIONAL AND SEQUENTIAL LOGIC IN TL VERILOG
+
+
+Day 3: combinational circuit lab
+
+1. Inverter: https://makerchip.com/sandbox/04xfJhV8k/0Wnh5Gw
+2. 2 input gates: https://makerchip.com/sandbox/04xfJhV8k/0vgh7rk
+3. 2:1 mux: https://makerchip.com/sandbox/04xfJhV8k/0y8hrKN
+4. Calculator: https://makerchip.com/sandbox/04xfJhV8k/0mwhj8W
+
+
+
+Day 3: Sequential circuit
+
+1. Fibonacci and counter: https://makerchip.com/sandbox/04xfJhV8k/0P1hK98
+2. calc with seq logic: https://makerchip.com/sandbox/04xfJhV8k/0RghvoZ#
+
+
+
+Day 3: Pipelining
+
+1. Pythagoras' theorem: https://makerchip.com/sandbox/04xfJhV8k/0pghn5y
+2. Pipeline errors lab: https://makerchip.com/sandbox/04xfJhV8k/0r0h8x7
+3. Pipeline lab1 - calc with pipeline and counter: https://makerchip.com/sandbox/04xfJhV8k/0zmhMKJ 
+4. pipeline lab2 - calc with valid: https://makerchip.com/sandbox/04xfJhV8k/0oYhrJB
+5. pipeline lab3 - calc with valid_or_reset: http://makerchip.com/sandbox/04xfJhV8k/0qjh8GJ
+6. pipeline lab4 - calc with mem: https://makerchip.com/sandbox/04xfJhV8k/0vgh7ov
+7. Hierarchy lab - 3 coordinate distance: https://makerchip.com/sandbox/04xfJhV8k/0xGh1Kq
+
