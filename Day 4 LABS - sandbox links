@@ -1,0 +1,13 @@
+DAY 4: SINGLE CYCLE RISC V CPU USING TL VERILOG
+
+1. Program counter:  https://makerchip.com/sandbox/04xfJhV8k/0JZhqLv
+2. pc + instr mem access:  http://makerchip.com/sandbox/04xfJhV8k/0LghRMq
+3. pc + instr fetch + instr format decode:  http://makerchip.com/sandbox/04xfJhV8k/0Nxh05B
+4. pc + instr fetch + opcode decode + imm retrieval:  https://makerchip.com/sandbox/04xfJhV8k/0Q1hk42
+5. pc + instr fetch + instr decode - opcode, imm, other fields:  https://makerchip.com/sandbox/04xfJhV8k/0Vmhx4L
+6. pc + instr fetch + decode unit (with validity check):  https://makerchip.com/sandbox/04xfJhV8k/0X6hX6n
+7. pc + instr fetch + decode unit (validity check + individual instr decode):  https://makerchip.com/sandbox/04xfJhV8k/03lhp89
+8. pc + instr fetch + complete decode unit + reg file read:  https://makerchip.com/sandbox/04xfJhV8k/01jhMjE
+9. pc + instr fetch + complete decode + reg file read/write + alu:  https://makerchip.com/sandbox/04xfJhV8k/0j2hn6p
+10. pc + instr fetch + decode + reg r/w + alu + taken_br:  https://makerchip.com/sandbox/04xfJhV8k/0k5hOL1
+11. Single cycle risc v that computes the sum of numbers from 1 to 9: https://makerchip.com/sandbox/04xfJhV8k/0wjhGOE
