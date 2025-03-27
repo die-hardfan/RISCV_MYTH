@@ -1,0 +1,11 @@
+DAY 5: PIPELINED RISC V CPU (RV32I)
+
+1. single cycle cpu + valid signal:  https://makerchip.com/sandbox/04xfJhV8k/0lOh29N
+2. cpu + validity check + pc/branch modification:  https://makerchip.com/sandbox/04xfJhV8k/0r0h8NM
+3. cpu + 3 stage pipeline:  https://makerchip.com/sandbox/04xfJhV8k/0GZh1jB
+4. cpu + 3 stage pipeline + reg bypass:  https://makerchip.com/sandbox/04xfJhV8k/0Nxh0vE
+5. cpu + pipeline + reg bypass + branch correction:  https://makerchip.com/sandbox/04xfJhV8k/0k5hOmG
+6. cpu + pipeline + hazard handling + decode other instrs (except load):  https://makerchip.com/sandbox/04xfJhV8k/0oYhrx1
+7. cpu + pipeline + hazard handling + complete decode + all alu (except load store):  https://makerchip.com/sandbox/04xfJhV8k/0DRh505
+8. cpu + pipeline + hazard handling + complete decode + complete alu (with load store):  https://makerchip.com/sandbox/04xfJhV8k/0O7hp4w
+9. Final version (with jump):  https://makerchip.com/sandbox/04xfJhV8k/0Vmhx91
